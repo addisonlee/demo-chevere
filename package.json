@@ -1,0 +1,24 @@
+{
+  "name": "demo-chevere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addisonlee/demo-chevere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addisonlee/demo-chevere/issues"
+  },
+  "homepage": "https://github.com/addisonlee/demo-chevere#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
